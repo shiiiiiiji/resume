@@ -87,6 +87,10 @@ body {
       .container .main .info-unit ul li .info-content .fa {
         font-size: 1em; }
 
+#qr-code {
+  width: 0;
+  height: 0; }
+
 /* -------------------------------------------------
  * 文档底部
  * ------------------------------------------------- */
