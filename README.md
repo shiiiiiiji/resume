@@ -4,7 +4,7 @@
 
 ## 介绍
 
-参考众多简历风格，@DIYgod，@ekCit以及我自己的博客主题[itsay.tech](http://itsay.tech)
+参考众多简历风格，@DIYgod，@ekCit以及我自己的博客主题 [itsay.tech](http://itsay.tech)
 
 ## 适宜对象
 
