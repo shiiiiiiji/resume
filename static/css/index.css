@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* -------------------------------------------------
+ * 公共部分
+ * ------------------------------------------------- */
+body {
+  background: #e5e5e5 url(../../static/images/background.png);
+  width: 100%;
+  padding: 1rem 10%;
+  padding-bottom: 0;
+  box-sizing: border-box;
+  font-size: .9em; }
+  body .fa {
+    font-size: 1.2em; }
+  body h2 {
+    font-size: 1.2em; }
+  body h3 {
+    font-size: 1.1em; }
+  body hr {
+    margin-bottom: .4em; }
+
+/* -------------------------------------------------
+ * 头部部分
+ * ------------------------------------------------- */
+/* -------------------------------------------------
+ * 主体部分
+ * ------------------------------------------------- */
+.container .fa {
+  margin-right: .3em; }
+.container .info-unit {
+  margin-bottom: 1rem; }
+  .container .info-unit h2 {
+    font-weight: 700; }
+  .container .info-unit h3 {
+    font-weight: 300; }
+.container .side {
+  position: absolute;
+  width: 20rem;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px #bbb;
+  box-sizing: border-box;
+  padding: 1rem; }
+  .container .side .me {
+    text-align: center;
+    margin-bottom: 2rem; }
+    .container .side .me .portrait {
+      margin: 0 auto; }
+      .container .side .me .portrait a > img {
+        width: 8rem;
+        border-radius: 50%;
+        border: 5px solid #607d8b; }
+  .container .side .info-unit ul li label {
+    display: inline-block;
+    width: 35%; }
+  .container .side .info-unit ul li span {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%; }
+.container .main {
+  position: relative;
+  margin-left: 22rem;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px #bbb;
+  box-sizing: border-box;
+  padding: 1rem; }
+  .container .main .info-unit ul {
+    box-sizing: border-box;
+    padding-left: 1.2rem;
+    padding-right: 0.8rem; }
+    .container .main .info-unit ul li {
+      margin-bottom: 1rem;
+      list-style: disc; }
+      .container .main .info-unit ul li h3 .link {
+        font-size: .5rem;
+        border: 1px solid #4db6ac;
+        padding: 1px 3px;
+        -webkit-border-radius: 5px;
+        border-radius: 5px;
+        margin-left: .5rem; }
+      .container .main .info-unit ul li h3 time {
+        text-align: right;
+        float: right; }
+      .container .main .info-unit ul li .info-content li {
+        list-style: circle;
+        margin: 0; }
+      .container .main .info-unit ul li .info-content .fa {
+        font-size: 1em; }
+
+/* -------------------------------------------------
+ * 文档底部
+ * ------------------------------------------------- */
+.footer {
+  width: 100%;
+  margin-top: 1rem;
+  height: 2rem; }
+  .footer p {
+    line-height: 2rem;
+    text-align: center;
+    font-size: 0.8rem; }
+
+/*# sourceMappingURL=index.css.map */

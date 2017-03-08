@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+/* -------------------------------------------------
+ * 主体部分
+ * ------------------------------------------------- */
+
+.container{
+	.fa{
+		margin-right: .3em;
+	}
+	// 公共部分
+	.info-unit{
+		margin-bottom: 1rem;
+		h2{
+			font-weight: 700;
+		}
+		h3{
+			font-weight: 300;
+		}
+		
+	}
+	// 侧边栏
+	.side{
+		position: absolute;
+		width: 20rem;
+		// height: 70rem;
+		background: #fff;
+		border-radius: 5px;
+    	box-shadow: 0 5px 20px #bbb;
+    	box-sizing: border-box;
+    	padding: 1rem;
+    	.me{
+    		text-align: center;
+    		margin-bottom: 2rem;
+    		.portrait{
+    			margin: 0 auto;
+    			a{
+    				& > img{
+    					width: 8rem;
+    					border-radius: 50%;
+    					border: 5px solid #607d8b;
+    					// box-shadow: 0px 0px 2px 3px rgba(255, 255, 255, 0.7), 0px 0px 30px 8px rgba(0, 0, 0, 0.5);
+    				}
+    			}
+    			
+    		}
+
+    	}
+
+    	.info-unit{
+    		ul{
+				li{
+	    			label{
+	    				display: inline-block;
+	    				width: 35%;
+	    			}
+	    			span{
+	    				display: inline-block;
+	    				vertical-align: top;
+	    				width: 60%;
+	    			}
+	    		}
+			}
+    	}
+    	
+	}
+	// 主题内容
+	.main{
+		position: relative;
+		margin-left: 22rem;
+		background: #fff;
+		border-radius: 5px;
+    	box-shadow: 0 5px 20px #bbb;
+    	box-sizing: border-box;
+    	padding: 1rem;
+    	// height: 75rem;
+    	.info-unit{
+    		h2{
+    			// font-weight: 300;
+    		}
+    		ul{
+    			box-sizing: border-box;
+    			padding-left: 1.2rem;
+    			padding-right: 0.8rem;
+    			li{
+    				margin-bottom: 1rem;
+    				list-style: disc;
+    				h3{
+    					.link{
+    						font-size: .5rem;
+						    border: 1px solid #4db6ac;
+						    padding: 1px 3px;
+						    -webkit-border-radius: 5px;
+						    border-radius: 5px;
+						    margin-left: .5rem;
+    					}
+    					time{
+    						text-align: right;
+    						float: right;
+    					}
+    				}
+
+    				.info-content{
+    					
+						li{
+							list-style: circle;
+							margin: 0;
+						}
+						.fa{
+							font-size: 1em;
+						}
+
+    					
+    				}
+
+    			}
+    		}
+    	}
+	}
+
+}
