@@ -1,6 +1,6 @@
 # 个人简历模板
 
-[console.love](http://console.love)
+[https://zelda.github.io/cv](https://zelda.github.io/cv)
 
 ## 介绍
 
