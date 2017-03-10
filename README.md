@@ -1,6 +1,6 @@
 # 个人简历模板
 
-[https://zelda.github.io/cv](https://zelda.github.io/cv)
+[https://zelda.github.io/Resume](https://zelda.github.io/cv)
 
 ## 介绍
 
