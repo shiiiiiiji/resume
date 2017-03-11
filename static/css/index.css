@@ -3,20 +3,12 @@
  * 公共部分
  * ------------------------------------------------- */
 body {
-  background: #e5e5e5 url(../../static/images/background.png);
+  background: #e5e5e5 url(../../static/images/background.png) no-repeat;
   width: 100%;
   padding: 1rem 10%;
   padding-bottom: 0;
   box-sizing: border-box;
   font-size: .9em; }
-  body .fa {
-    font-size: 1.2em; }
-  body h2 {
-    font-size: 1.2em; }
-  body h3 {
-    font-size: 1.1em; }
-  body hr {
-    margin-bottom: .4em; }
 
 /* -------------------------------------------------
  * 头部部分
@@ -87,10 +79,6 @@ body {
       .container .main .info-unit ul li .info-content .fa {
         font-size: 1em; }
 
-#qr-code {
-  width: 0;
-  height: 0; }
-
 /* -------------------------------------------------
  * 文档底部
  * ------------------------------------------------- */
@@ -102,5 +90,87 @@ body {
     line-height: 2rem;
     text-align: center;
     font-size: 0.8rem; }
+
+.fa {
+  font-size: 1.2em; }
+
+h2 {
+  font-size: 1.2em; }
+
+h3 {
+  font-size: 1.1em; }
+
+hr {
+  margin-bottom: .4em; }
+
+progress {
+  background-color: #f6f6f6;
+  display: inline;
+  /*width: 195px;*/
+  height: 1em; }
+
+progress::-webkit-progress-bar {
+  background-color: #e0eaf0; }
+
+progress::-webkit-progress-value {
+  background-color: #1abc9c; }
+
+progress::-moz-progress-bar {
+  background-color: #e0eaf0; }
+
+progress::-moz-progress-value {
+  background-color: #708d9b; }
+
+.progress-list {
+  line-height: 2; }
+
+mark {
+  background: rgba(232, 232, 232, 0.8); }
+
+@media screen and (max-width: 1169px) {
+  .container .info-unit h3 span {
+    display: block; }
+
+  .container .info-unit h3 span.link {
+    display: inline; }
+
+  .container .project h3 span {
+    display: inline; }
+
+  .container .project h3 time {
+    display: block; }
+
+  .container .main .info-unit ul li h3 time {
+    float: none;
+    text-align: left; } }
+@media screen and (max-width: 1034px) {
+  body {
+    padding: 1rem 3%; } }
+@media screen and (max-width: 414px) {
+  .container .side {
+    position: static;
+    width: 95%;
+    margin: 0 auto; }
+
+  .container .main {
+    position: static;
+    margin-left: 0;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 1.5rem; }
+
+  #nav-m {
+    display: none;
+    position: fixed;
+    width: 28px;
+    height: 28px;
+    right: 10px;
+    bottom: 20px;
+    box-shadow: 0 5px 20px #bbb;
+    border-radius: 50%; }
+
+  #nav-m svg {
+    width: 28px;
+    height: 28px; } }
 
 /*# sourceMappingURL=index.css.map */
