@@ -3,7 +3,7 @@
  * 公共部分
  * ------------------------------------------------- */
 body {
-  background: #e5e5e5 url(../../static/images/background.png) no-repeat;
+  background: #e5e5e5 url(../../static/images/background.png);
   width: 100%;
   padding: 1rem 10%;
   padding-bottom: 0;
@@ -91,6 +91,9 @@ body {
     text-align: center;
     font-size: 0.8rem; }
 
+/* -------------------------------------------------
+ * 自定义部分
+ * ------------------------------------------------- */
 .fa {
   font-size: 1.2em; }
 
