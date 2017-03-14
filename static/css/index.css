@@ -194,6 +194,9 @@ mark {
 
   #nav-m svg {
     width: 28px;
-    height: 28px; } }
+    height: 28px; }
+
+  aside {
+    top: 80%; } }
 
 /*# sourceMappingURL=index.css.map */
