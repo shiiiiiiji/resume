@@ -1,10 +1,10 @@
 # 个人简历模板
 
-[https://zelda.github.io/Resume](https://zelda.github.io/Resume)
+[http://0b11111110.com/resume/](http://0b11111110.com/resume/)
 
 ## 介绍
 
-参考众多简历风格，@DIYgod，@ekCit以及我自己的博客主题 [itsay.tech](http://itsay.tech)
+参考众多简历风格，@DIYgod，@ekCit以及~~我自己的博客主题 [itsay.tech](http://itsay.tech)~~
 
 ## 面向对象
 
@@ -23,7 +23,8 @@
 ## ChangeLog
 - 2017.3.7 创建模板
 - 2017.3.12 移动端优化
+- 2017.12.20 修改部分内容
 
 ## LICENSE
 
-MIT © [zelda](https://github.com/zelda)
+MIT © [0xFE](https://github.com/0b11111110)
