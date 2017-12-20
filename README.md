@@ -4,7 +4,10 @@
 
 ## 介绍
 
-参考众多简历风格，@DIYgod，@ekCit以及~~我自己的博客主题 [itsay.tech](http://itsay.tech)~~
+此简历模板：
+
+- 内容上，来源于我本人真实求职经历以及参加多次网上简历培训总结而成，
+- 风格上，参考众多简历风格，@DIYgod，@ekCit以及~~我自己的博客主题 [itsay.me](http://itsay.me)~~
 
 ## 面向对象
 
@@ -27,4 +30,4 @@
 
 ## LICENSE
 
-MIT © [0xFE](https://github.com/0b11111110)
+MIT © [ITSAY](https://gitee.com/itsay)
