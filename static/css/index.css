@@ -39,8 +39,7 @@ body {
       margin: 0 auto; }
       .container .side .me .portrait a > img {
         width: 8rem;
-        border-radius: 50%;
-        border: 5px solid #607d8b; }
+        border-radius: 50%; }
   .container .side .info-unit ul li label {
     display: inline-block;
     width: 35%; }
@@ -105,6 +104,26 @@ h3 {
 
 hr {
   margin-bottom: .4em; }
+
+aside {
+  position: fixed;
+  right: 0;
+  top: 30%;
+  z-index: 2; }
+  aside ul li {
+    margin-bottom: 10px;
+    -webkit-border-radius: 10px 0 0 10px;
+    border-radius: 19px 0 0 10px;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    background: #1abc9c; }
+    aside ul li a {
+      display: inline-block;
+      width: 80px;
+      height: 38px;
+      line-height: 38px;
+      padding-left: 10px;
+      color: #fff; }
 
 progress {
   background-color: #f6f6f6;
