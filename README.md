@@ -2,7 +2,7 @@
 
 [http://0b11111110.com/resume/](http://0b11111110.com/resume/)
 
-## 介绍
+## Intro
 
 此简历模板：
 
@@ -11,7 +11,7 @@
 
 欢迎提issue或者star，ღ( ´･ᴗ･` )比心
 
-## 面向对象
+## Object
 
 前端求职/程序员求职
 
@@ -29,6 +29,9 @@
 - 2017.3.7 创建模板
 - 2017.3.12 移动端优化
 - 2017.12.20 修改部分内容
+
+## Acknowledgments
+- font-awesome提供字体图标
 
 ## LICENSE
 
