@@ -41,6 +41,7 @@ body {
     margin-bottom: 2rem; }
     .container .side .me .portrait {
       margin: 0 auto;
+      margin-bottom: 1rem;
       width: 8rem;
       height: 8rem;
       overflow: hidden;
