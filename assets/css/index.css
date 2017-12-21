@@ -86,6 +86,7 @@ body {
       .container .side .me .portrait .loading span:nth-child(5) {
         -webkit-animation-delay: 0.8s; }
       .container .side .me .portrait img {
+        display: none;
         width: 8rem;
         height: 8rem;
         border-radius: 50%; }
