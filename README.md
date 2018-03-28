@@ -1,3 +1,9 @@
+本项目获[【非你莫属】码云Pages技术简历/个性主页模板有奖征集，千元奖品等你来撩！](https://www.oschina.net/question/2267325_2270929)活动，有幸获得**第二名**。
+- 码云项目地址：[https://gitee.com/itsay/resume](https://gitee.com/itsay/resume)
+- 评选结果：[https://gitee.com/cool-resume](https://gitee.com/cool-resume)
+
+---
+
 # 个人简历模板
 
 [http://0b11111110.com/resume/](http://0b11111110.com/resume/)
